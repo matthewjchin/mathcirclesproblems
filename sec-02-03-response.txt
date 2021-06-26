@@ -1,0 +1,5 @@
+By folding the overhead knot with the thin strip of paper, a perfect regular pentagon is formed because of the regular polygons that are made after the knot is formed. 
+The perfect regular pentagon is formed by at minimum three isosceles trapezoids. If folding the rest of the strip of paper, more and more of these isosceles trapezoids 
+will be formed in the shape of the regular pentagon. A regular pentagon has a total of 720 degrees with its five sides, which means that each angle is 144 degrees. 
+Forming a knot with a strip of paper results in the formation of several trapezoids, mostly isosceles, with the exception of the ends which are trapezoids with two 
+right angles which may be the ends of the strip of paper being used to make a knot around. 
