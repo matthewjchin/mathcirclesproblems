@@ -6,4 +6,4 @@ There are a mix of both <b>Python</b> and <b>Jupyter</b> documents where some qu
 
 Not all problems are solved but are formed from several kinds of ideas as part of different thought processes. Some questions involve geometry and symmetry, while others include probability and combinatorics. 
 
-Any questions, suggestions, or errors can be emailed at mailto:mattchin813@gmail.com
+Any questions, suggestions, or errors can be emailed at mattchin813@gmail.com
